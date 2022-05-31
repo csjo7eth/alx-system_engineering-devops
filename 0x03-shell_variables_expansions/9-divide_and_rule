@@ -1,2 +1,2 @@
 #!/bin/bash
-expr 42784 / 32
+echo $((POWER / DIVIDE))
