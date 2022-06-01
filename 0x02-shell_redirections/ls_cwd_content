@@ -1,16 +1,21 @@
-total 48
-drwxr-xr-x 2 root root 251 May 31 02:10 .
-drwxr-xr-x 7 root root 168 May 30 06:35 ..
--rwxr--r-- 1 root root  25 May 31 00:03 0-hello_world
--rw-r--r-- 1 root root  12 May 31 00:23 1-confused_simley
--rwxr--r-- 1 root root  28 May 31 01:24 2-hellofile
--rwxr--r-- 1 root root  27 May 31 01:14 3-towfiles
--rwxr--r-- 1 root root  39 May 31 01:16 3-twofiles
--rwxr--r-- 1 root root  29 May 31 01:21 4-lastlines
--rwxr--r-- 1 root root  29 May 31 01:27 5-firstlines
--rwxr--r-- 1 root root  40 May 31 01:36 6-third_line
--rwxr--r-- 1 root root  49 May 31 01:51 7-file
--rwxr--r-- 1 root root  24 May 31 02:09 8-cwd_state
--rw-r--r-- 1 root root 801 May 31 01:45 iacta
--rw-r--r-- 1 root root   0 May 31 02:10 ls_cwd_content
--rw-r--r-- 1 root root  81 May 31 00:00 README.md
+total 64
+drwxr-xr-x 2 root root 4096 Jun  1 00:49 .
+drwxr-xr-x 8 root root  207 May 31 04:08 ..
+-rwxr--r-- 1 root root   32 Jun  1 00:19 0-hello_world
+-rwxr--r-- 1 root root   20 May 31 02:51 10-no_more_js
+-rwxr--r-- 1 root root   28 Jun  1 00:35 1-confused_smiley
+-rwxr--r-- 1 root root   28 May 31 01:24 2-hellofile
+-rwxr--r-- 1 root root   27 May 31 01:14 3-towfiles
+-rwxr--r-- 1 root root   39 May 31 01:16 3-twofiles
+-rwxr--r-- 1 root root   29 May 31 01:21 4-lastlines
+-rwxr--r-- 1 root root   29 May 31 01:27 5-firstlines
+-rwxr--r-- 1 root root   40 May 31 01:36 6-third_line
+-rwxr--r-- 1 root root   99 Jun  1 00:45 7-file
+-rwxr--r-- 1 root root   36 Jun  1 00:49 8-cwd_state
+-rwxr--r-- 1 root root   27 May 31 02:36 9-duplicate_last_line
+-rw-r--r-- 1 root root   12 Jun  1 00:46 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root  801 May 31 01:45 iacta
+-rw-r--r-- 1 root root    0 May 31 02:54 index.js
+-rw-r--r-- 1 root root    0 Jun  1 00:50 ls_cwd_content
+-rw-r--r-- 1 root root    0 May 31 02:54 main.js
+-rw-r--r-- 1 root root   81 May 31 00:00 README.md
